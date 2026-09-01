@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Sakib 👋
 
-<!--
-**BasSakib/BasSakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering Student  
+📊 Aspiring Data Analyst | 💻 Software & Technology Enthusiast
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a CSE student with a strong interest in Data Analytics,
+Power BI, Python, Machine Learning, and Software Development.
+
+- 🎓 Computer Science & Engineering Student
+- 📊 Interested in Data Analytics and Visualization
+- 🐍 Learning Python and Machine Learning
+- 💻 Building academic and personal projects
+- 🎯 Looking for internship opportunities
+
+## Skills
+
+**Programming:** Python, C, C++, C#  
+**Data & Analytics:** Power BI, Data Analysis, Data Visualization  
+**Database:** SQL  
+**Tools:** Git, GitHub, VS Code  
+
+## Projects
+
+- 📊 Data Analytics Projects
+- 📈 Power BI Dashboards
+- 💻 Software Development Projects
+- 🌐 Web Development Projects
+- 🤖 Machine Learning Projects
+
+## Let's Connect
+
+⭐ Feel free to explore my repositories and check out my projects!
