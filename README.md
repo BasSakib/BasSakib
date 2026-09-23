@@ -2,6 +2,7 @@
 
 🎓 Computer Science & Engineering Student  
 📊 Aspiring Data Analyst | 💻 Software & Technology Enthusiast
+🐍 Python & Machine Learning Engineering
 
 ## About Me
 
