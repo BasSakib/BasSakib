@@ -16,10 +16,10 @@ Power BI, Python, Machine Learning, and Software Development.
 
 ## Skills
 
-**Programming:** Python, C, C++, C#  
+**Programming:** Python, C, C++, C#, PHP  
 **Data & Analytics:** Power BI, Data Analysis, Data Visualization  
 **Database:** SQL  
-**Tools:** Git, GitHub, VS Code  
+**Tools:** CodeBlocks, GitHub, VS Code  
 
 ## Projects
 
